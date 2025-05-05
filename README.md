@@ -28,6 +28,6 @@ An interactive Power BI dashboard was created to visualize key metrics and patte
 - Income vs. deposit analysis
 - Product holding patterns (savings, checking, loans)
 
-Link to Dashboard: [https://app.powerbi.com/view?r=eyJrIjoiMjc4MWQ5NjctNTg0Yy00NDgzLWE4NjQtMzlhNjBkNmNhOTY5IiwidCI6IjFmNWY5Y2M5LTFhMTctNDBiMy04N2ZlLTNmNjM5NjdiNjVhNyJ9)]
+Link to Dashboard: [[link]https://app.powerbi.com/view?r=eyJrIjoiMjc4MWQ5NjctNTg0Yy00NDgzLWE4NjQtMzlhNjBkNmNhOTY5IiwidCI6IjFmNWY5Y2M5LTFhMTctNDBiMy04N2ZlLTNmNjM5NjdiNjVhNyJ9)]
 
 Link to Linkedin post : [https://www.linkedin.com/posts/aditya-mohapatra-60114720a_new-pilot-project-credit-card-strategy-activity-7325161192241463296-D5Xt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADUO4qEBzZ4ULbcSuU4AXS9tC_SOAexib0g]
